@@ -1,6 +1,7 @@
 # paddle-localized-pricing-builder
 
-![paddle-localized-pricing-builder](./assets/banner.png)
+![paddle-localized-pricing-builder](./assets/banner1.png)
+![paddle-localized-pricing-builder](./assets/banner2.png)
 
 A web app for setting country-specific Paddle prices from purchasing-power data.
 
