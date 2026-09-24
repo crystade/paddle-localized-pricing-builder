@@ -1,0 +1,3 @@
+[submodule "paddle-node-sdk"]
+	path = paddle-node-sdk
+	url = https://github.com/PaddleHQ/paddle-node-sdk.git

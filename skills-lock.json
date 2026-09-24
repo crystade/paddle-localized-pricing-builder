@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "skills": {
+    "paddle-catalog-setup": {
+      "source": "developer.paddle.com",
+      "sourceUrl": "https://developer.paddle.com/",
+      "sourceType": "well-known",
+      "computedHash": "5f5f5f7db8480a01b56b67ca92404bf0092e8fe0974d741e55672a69037195e5",
+      "wellKnownDigest": "sha256:de4b053161038f69077c20e85304ce2846bde7433279fd85ed9cf996050ba6fb"
+    },
+    "paddle-pricing-pages": {
+      "source": "developer.paddle.com",
+      "sourceUrl": "https://developer.paddle.com/",
+      "sourceType": "well-known",
+      "computedHash": "589d9985e608172b70a1db6ee8cdbe4ad55e438372d06ce8dc3656fc19d7d1dd",
+      "wellKnownDigest": "sha256:c6222919fd666faba11f44d84e0053c59fe983d0b9f461fcea5a49e469a0f857"
+    },
+    "paddle-sandbox-testing": {
+      "source": "developer.paddle.com",
+      "sourceUrl": "https://developer.paddle.com/",
+      "sourceType": "well-known",
+      "computedHash": "23760461444c8fde6e1f973fa0074054c0d139ece1b8e2564b20a3269e3c08c4",
+      "wellKnownDigest": "sha256:062270a7172e3cc629e751ef48a143e1189673f39ac7011a23d9fd283aa2ef69"
+    }
+  }
+}
